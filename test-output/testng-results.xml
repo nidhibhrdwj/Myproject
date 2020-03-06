@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-05T13:05:10 EST" name="Default suite" finished-at="2020-03-05T13:05:22 EST" duration-ms="11665">
+    <groups>
+    </groups>
+    <test started-at="2020-03-05T13:05:10 EST" name="Default test" finished-at="2020-03-05T13:05:22 EST" duration-ms="11665">
+      <class name="test2.dependenciesCheck">
+        <test-method signature="printname()[pri:0, instance:test2.dependenciesCheck@6a01e23]" started-at="2020-03-05T13:05:10 EST" name="printname" finished-at="2020-03-05T13:05:22 EST" duration-ms="11629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printname -->
+      </class> <!-- test2.dependenciesCheck -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
